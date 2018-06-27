@@ -1,0 +1,50 @@
+ $ git config --global core.askpass
+
+
+
+
+
+git clone https://csaba97@bitbucket.org/csaba97/pt2018_30424_gabor_csaba-laszlo_assignment_3.git
+
+git log --oneline --all | wc -l
+
+
+
+ git add .
+git commit –a –m “initial commit”
+ git pull origin master
+ git push origin master
+
+
+
+ git add .
+git commit –a –m “uml”
+ git pull origin master
+ git push origin master
+
+
+
+ git add .
+git commit –a –m “modified”
+ git pull origin master
+ git push origin master
+
+
+ git add .
+git commit –a –m “javadoc”
+ git pull origin master
+ git push origin master
+
+
+ git add .
+git commit –a –m “final”
+ git pull origin master
+ git push origin master
+
+
+ git add .
+git commit –a –m “divide number”
+ git pull origin master
+ git push origin master
+
+ git status

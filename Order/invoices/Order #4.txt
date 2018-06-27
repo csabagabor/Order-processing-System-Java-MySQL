@@ -1,0 +1,18 @@
+************************************************************************************
+*************ORDER #4*********************
+
+Client name: Anabell Smith 
+Client Address: Muncii 22
+Client E-mail: anabell12@gmail.com
+Client Phone: 0741111114
+
+Product name: Salami Sasesc
+Product Unit Price: 33
+Number bought: 1 pcs
+
+Shipper name: Priority Shipping
+Shipper phone: 0755555558
+Expected shipping time: 1 days
+
+TOTAL PRICE: 33
+DATE: 2018-04-09

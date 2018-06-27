@@ -1,0 +1,18 @@
+************************************************************************************
+*************ORDER #7*********************
+
+Client name: Big Joe Davis
+Client Address:  Bulevardul 54
+Client E-mail: big_joe@gmail.com
+Client Phone: 0741111111
+
+Product name: Samsung S8
+Product Unit Price: 2000
+Number bought: 1 pcs
+
+Shipper name: Fan Curier
+Shipper phone: 0755555555
+Expected shipping time: 3 days
+
+TOTAL PRICE: 2000
+DATE: 2018-04-16

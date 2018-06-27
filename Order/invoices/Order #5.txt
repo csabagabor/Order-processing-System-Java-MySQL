@@ -1,0 +1,18 @@
+************************************************************************************
+*************ORDER #5*********************
+
+Client name: John Dave
+Client Address: Bulevardul 77
+Client E-mail: johny112@gmail.com
+Client Phone: 0741111115
+
+Product name: Necklace silver
+Product Unit Price: 220
+Number bought: 3 pcs
+
+Shipper name: Priority Shipping
+Shipper phone: 0755555558
+Expected shipping time: 1 days
+
+TOTAL PRICE: 660
+DATE: 2018-04-10

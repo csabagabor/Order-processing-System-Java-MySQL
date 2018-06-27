@@ -1,0 +1,18 @@
+************************************************************************************
+*************ORDER #6*********************
+
+Client name: Travolta John
+Client Address: Bulevardul 11
+Client E-mail: travolta_john@gmail.com
+Client Phone: 0741111113
+
+Product name: Necklace silver
+Product Unit Price: 220
+Number bought: 1 pcs
+
+Shipper name: Priority Shipping
+Shipper phone: 0755555558
+Expected shipping time: 1 days
+
+TOTAL PRICE: 220
+DATE: 2018-04-10
